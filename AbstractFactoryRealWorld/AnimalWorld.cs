@@ -8,7 +8,7 @@ namespace AbstractFactoryRealWorld
 {
     /// <summary>
 
-    /// The 'Client' class 
+    /// The 'AnimalWorld' class 
 
     /// </summary>
 
