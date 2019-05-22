@@ -1,1 +1,6 @@
 F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\bin\Debug\AbstractFactoryRealWorld.exe.config
+F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\bin\Debug\AbstractFactoryRealWorld.exe
+F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\bin\Debug\AbstractFactoryRealWorld.pdb
+F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\obj\Debug\AbstractFactoryRealWorld.csprojResolveAssemblyReference.cache
+F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\obj\Debug\AbstractFactoryRealWorld.exe
+F:\Git Repos\Design Patterns\AbstractFactoryRealWorld\AbstractFactoryRealWorld\obj\Debug\AbstractFactoryRealWorld.pdb

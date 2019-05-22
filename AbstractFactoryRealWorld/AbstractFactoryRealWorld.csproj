@@ -42,6 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalWorld.cs" />
+    <Compile Include="Wolf .cs" />
+    <Compile Include="Bison .cs" />
+    <Compile Include="Lion .cs" />
+    <Compile Include="Wildebeest.cs" />
+    <Compile Include="Carnivore.cs" />
+    <Compile Include="Herbivore.cs" />
+    <Compile Include="AmericaFactory .cs" />
+    <Compile Include="AfricaFactory .cs" />
+    <Compile Include="ContinentFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
